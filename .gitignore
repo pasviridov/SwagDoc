@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.suo
+bin/
+obj/
+/packages/
+/_ReSharper.*/
+*.csproj.user
+*.log
+csx/
+rcf/
+TestResults/
